@@ -1,0 +1,5 @@
+"alert_level","num_stores","avg_days","avg_velocity"
+"MONITOR  - Reorder soon",837,"6.2","1.13"
+"OK       - Stock sufficient",203,"7.4","0.95"
+"WATCH    - Demand surging",55,"5.2","1.34"
+"WARNING  - Order within 24hrs",18,"4.6","1.55"

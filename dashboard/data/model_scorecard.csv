@@ -1,0 +1,4 @@
+"model","rmse","mae","mape","mean_bias","coverage_95","rmse_rank","mape_rank","overall_rank"
+"Ensemble (weighted)","1554","1156","17.40","-23","95.6","1","1","2"
+"Trend+Seasonal","1598","1195","18.50","-214","94.9","2","3","5"
+"DOW_AVG (baseline)","1633","1211","17.69","182","95.4","3","2","5"
